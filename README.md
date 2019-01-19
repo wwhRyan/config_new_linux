@@ -1,5 +1,8 @@
-								----------	 config_new_linux	----------
-								
+					----------	 config_new_linux	----------
+Introduce:
+This repository is designed to store the initial settings for the new Linux development environment
+It is convenient for personal use in a new linux environment.
+
 1.ubuntu 18.04
 	1)change the 源
 		sudo cp /etc/apt/sources.list /etc/apt/sources.list.bak
