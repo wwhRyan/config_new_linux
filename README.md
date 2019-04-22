@@ -9,7 +9,9 @@ It is convenient for personal use in a new linux environment.
 		sudo vim /etc/apt/sources.list
 	
 	2)Install necessary software
-		sudo apt-get install -y vim git openssh-server  libncurses5-dev \
+		sudo apt-get install -y vim git openssh-server 
+		
+	3)unnecessary software     	 libncurses5-dev \
 		flex bison texinfo zip unzip zlib1g-dev gettext u-boot-tools \
 		g++ xz-utils mtd-utils gawk diffstat gcc-multilib python  \
 		make gcc g++ diffstat bzip2 gawk chrpath wget cpio texinfo lzop
