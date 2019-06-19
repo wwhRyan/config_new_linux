@@ -1,3 +1,4 @@
+##放在用户目录~下
 " Indentation & Tabs
 set autoindent
 set smartindent
