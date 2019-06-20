@@ -1,4 +1,4 @@
-##放在用户目录~下
+" 此文件放在当前用户目录~
 " Indentation & Tabs
 set autoindent
 set smartindent
