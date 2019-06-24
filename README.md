@@ -23,10 +23,9 @@ Bonus:
 		sudo vim /etc/apt/sources.list
 	
 	2)Install necessary software
-		sudo apt-get install -y vim git openssh-server 
+		sudo apt-get install -y vim git openssh-server wget make gcc g++
 		
-	3)unnecessary software     	 libncurses5-dev \
-		flex bison texinfo zip unzip zlib1g-dev gettext u-boot-tools \
-		g++ xz-utils mtd-utils gawk diffstat gcc-multilib python  \
-		make g++ diffstat bzip2 chrpath wget cpio texinfo lzop
+	3)unnecessary software   
+		python flex bison texinfo zip unzip zlib1g-dev gettext u-boot-tools \
+		xz-utils mtd-utils gawk diffstat gcc-multilib diffstat bzip2 chrpath cpio texinfo lzop
 		
